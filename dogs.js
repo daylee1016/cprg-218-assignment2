@@ -18,7 +18,7 @@ ponzu.addEventListener('click',function(){
     console.log('This is Ponzu, the Samoyed.');
     document.getElementById('img').src='images/Ponzu.png';
     h2.innerHTML = "Meet Ponzu!";
-    figcaption.innerHTML = "On July 6th, 2024, Dianne drew a master piece of a fluffy Samoyed named Ponzu. Ponzu is name after a citrus sauce commonly used in Japan. She met her furever family in Calgary, and her story of adventure continues non-stop. Her favourite season of the year us winter and she is having her best life in Canada, where she can enjoy endless snowy days with her humans."
+    figcaption.innerHTML = "On July 6th, 2024, Dianne drew a master piece of a fluffy Samoyed named Ponzu. Ponzu is name after a citrus sauce commonly used in Japan. She met her furever family in Calgary, and her story of adventure continues non-stop. Her favourite season of the year is winter and she is having her best life in Canada, where she can enjoy endless snowy days with her humans."
 })
 
 eddie.addEventListener('click',function(){
