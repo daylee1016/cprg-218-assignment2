@@ -23,7 +23,7 @@ ponzu.addEventListener('click',function(){
 
 eddie.addEventListener('click',function(){
     console.log('Mini Schanuzer, Mr.Eddie');
-    document.getElementById('img').src='images/eddie.png';
+    document.getElementById('img').src='images/Tom.png';
     h2.innerHTML = "Meet Eddie!";
     figcaption.innerHTML = "On August 9th, 2024, Dianne drew a Mini Schnauzer named Eddie. His shiny silver coat and distinctive eyebrows make him unforgettable to anyone who sees him. This good boy, Eddie, is from Toronto and is living the best life with his pet parents. He is small but full of energy. Always egear to show affection and spreading joy to the people around him."
 })
